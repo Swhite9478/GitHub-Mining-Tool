@@ -12,7 +12,7 @@ James Todd: JamesToddNau95@gmail.com
 
 ***Requires python 3.6.0 interpreter or higher to successfully run.***
 
-***This program currently works on Windows 10 & Mac Machines***
+***This program currently works on Windows 10 & macOS High Sierra Version 10.13.6 at least. Other versions are untested.***
 
 ---
 
