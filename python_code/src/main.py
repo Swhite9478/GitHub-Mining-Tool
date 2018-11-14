@@ -48,4 +48,4 @@ for repo in repo_lines:
                                      str(format(float((time.time() - innerStart)), "0.4f")) + " (sec)   " + str(format(float((time.time() - innerStart) / 60), "0.4f") + " (min)\n"))
     except Exception as error:
         ERROR_LOGGER.write_to_log("This REPO " + str(repo) + " has this error " + str(error) + " THE METHOD CALLER IS MAIN")
-# csvCombiner.combine_all_pr_csvs()
+csvCombiner.combine_all_pr_csvs()
