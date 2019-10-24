@@ -2,7 +2,9 @@
 
 The purpose of this repository is to facilitate research for Marco Gerosa and Igor Steinmacher regarding drive by commits and pull requests. It allows for the collection of pooled data in a resulting .csv format, for further analysis in any statistical based language.
 
-This tool is written in the Python programming language, and leverages the GitHub API to mine/download information in the form of JSON files, on provided repositories of interest chosen by Marco Gerosa and Igor Steinmacher.
+This tool is written in the Python programming language, and leverages the GitHub API to mine/download information in the form of JSON files, on provided repositories of interest chosen by Marco Gerosa and Igor Steinmacher (@igorsteinmacher).
+
+This project uses [GitHub API v3](https://developer.github.com/v3/). Contributions to make it work with the [API v4](https://developer.github.com/v4/) and optimize it are more than welcome!
 
 All relevant information about the project is presented below, but if you have any suggestions, or would like to contribute and have a question, feel free to reach out to the project's owners and main contributors: Stephen White, or James Todd.
 
